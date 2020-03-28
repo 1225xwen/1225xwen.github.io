@@ -2,12 +2,12 @@
 # Theme Customization #
 #######################
 
-title: Jessieee                             # used in <title> tag & site header
+title: Jessie                             # used in <title> tag & site header
 author: Jessie Wen                       # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   COOl
-slogan: wwwwww                         # used in site header, beside title
-avatar: /i/avatar.png                       # used as portrait in site header
+slogan: Be Special !                         # used in site header, beside title
+avatar: /i/myimage.jpeg                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
